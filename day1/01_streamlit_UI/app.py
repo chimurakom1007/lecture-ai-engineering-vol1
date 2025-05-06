@@ -17,7 +17,7 @@ os.getcwd()
 # ============================================
 # タイトルと説明
 # ============================================
-st.title("Streamlit 初心者向けデモ")
+st.title("Streamlit 提出用デモ")
 # st.markdown("### コメントを解除しながらStreamlitの機能を学びましょう")
 # st.markdown("このデモコードでは、コメントアウトされた部分を順番に解除しながらUIの変化を確認できます。")
 st.image("/content/lecture-ai-engineering/day1/01_streamlit_UI/猫.jpg")
@@ -30,7 +30,7 @@ st.image("/content/lecture-ai-engineering/day1/01_streamlit_UI/猫.jpg")
 # ============================================
 # 基本的なUI要素
 # ============================================
-st.header("基本的なUI要素")
+st.header("課題AI")
 
 # テキスト入力
 st.subheader("テキスト入力")
