@@ -33,7 +33,7 @@ st.image("/content/lecture-ai-engineering/day1/01_streamlit_UI/猫.jpg")
 st.header("課題AI")
 
 # テキスト入力
-st.subheader("テキスト入力")
+st.subheader("入力")
 name = st.text_input("あなたの名前", "ゲスト")
 st.write(f"こんにちは、{name}さん！")
 
